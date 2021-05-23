@@ -28,6 +28,7 @@ class ResetPassword extends Mailable
      *
      * @return $this
      */
+    // mail_content
     public function build()
     {
         return $this
