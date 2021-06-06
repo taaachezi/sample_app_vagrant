@@ -13,7 +13,7 @@ class ResetPassword extends Mailable
 
     public $token;
 
-    /**
+    /***
      * Create a new message instance.
      *
      * @return void
