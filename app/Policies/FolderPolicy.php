@@ -10,7 +10,7 @@ class FolderPolicy
 {
     use HandlesAuthorization;
 
-    /**
+    /***
      * Create a new policy instance.
      *
      * @return void
